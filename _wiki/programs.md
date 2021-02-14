@@ -12,3 +12,5 @@ title: Programs/Internships
 * HackIllinois Hackathon: <https://hackillinois.org/>
 
 * HackIllinois Open-Source Fellowship: <https://fellowship.hackillinois.org/>
+
+* A convenient list of opportunities from GeeksForGeeks: <https://www.geeksforgeeks.org/best-open-source-programs-for-students-to-participate/>
