@@ -5,4 +5,10 @@
 layout: home
 ---
 
-Welcome to the official Open-Source @ Illinois wiki! 
+# Home
+
+Welcome to the official [Open-Source @ Illinois](https://www.opensourceatillinois.com/) wiki!
+
+* View our [constitution](https://github.com/open-source-at-illinois/constitution)  
+* Join our [Discord](https://discord.gg/KkW5QYB)  
+
