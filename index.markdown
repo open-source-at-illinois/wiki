@@ -5,4 +5,9 @@
 layout: home
 ---
 
-Welcome to the official Open-Source @ Illinois wiki! 
+Welcome to the official Open-Source @ Illinois wiki!
+
+### Other Resources
+* [Main site] (https://www.opensourceatillinois.com/)
+* [Constitution] (https://github.com/open-source-at-illinois/constitution)
+* [Discord] (https://discord.gg/KkW5QYB)
