@@ -9,4 +9,5 @@ title: Conferences
 
 [Central Pennsylvania Open Source Conference (CPOSC)](https://cposc.org/sessions)   
 
+[Open Source 101](https://opensource101.com/)
 
