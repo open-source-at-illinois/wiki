@@ -14,3 +14,6 @@ title: Programs/Internships
 [HackIllinois Open-Source Fellowship](https://fellowship.hackillinois.org/)  
 
 [List of opportunities from GeeksForGeeks](https://www.geeksforgeeks.org/best-open-source-programs-for-students-to-participate/)  
+
+[Major League Hacking Fellowship](https://fellowship.mlh.io/)
+
